@@ -1,0 +1,19 @@
+{
+  "name": "queue-bot",
+  "version": "1.0.0",
+  "description": "Bot for creating queues in groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kertnique/queue-bot.git"
+  },
+  "author": "kertnique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kertnique/queue-bot/issues"
+  },
+  "homepage": "https://github.com/kertnique/queue-bot#readme"
+}
